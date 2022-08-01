@@ -6,7 +6,7 @@ A demo project for 2022 DevOpsDays Guangzhou.
 
 Basically what you need is run `RunLocalServer.java`
 
-### If dependency `cranker-connector` is missing
+### If dependency [cranker-connector](https://github.com/hsbc/cranker-connector) is missing
 
 ```xml
 <dependency>
